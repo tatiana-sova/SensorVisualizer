@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDN57X4IhII=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DTD\\Documents\\колледж Сало\\стажировка в Италии\\SensorVisualizer\\SensorVisualizer\\SensorVisualizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DTD\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\DTD\\.nuget\\packages\\oxyplot.windowsforms\\2.2.0\\oxyplot.windowsforms.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
